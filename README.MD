@@ -9,6 +9,10 @@ Welcome to my GitHub profile! I'm a passionate back-end developer with a focus o
 - **Frameworks:** Django, React, Laravel, React Native
 - **Tools:** Docker, Git, Bitbucket, Postman, VS Code
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nhatttk&show_icons=true&locale=en&layout=compact" alt="Nhatttk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nhatttk&show_icons=true&locale=en" alt="Nhatttk" /></p>
+
 ## 🚀 Projects
 
 ### [QR code and face-id login feature](https://github.com/Nhatttk/QR-code-and-face-id-login-feature)
@@ -25,11 +29,6 @@ CareerOrientation is a web-based application designed to help individuals discov
 ### [Pincap-app](https://github.com/duytan177/Pincap-app)
 Pincap-app is a mobile application built with React Native, designed to offer a user experience similar to Pinterest. Users can explore, save, and organize visual content into collections, making it easy to discover and share inspiration. This application was developed by a team of 4 members.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nhatttk&show_icons=true&locale=en&layout=compact" alt="Nhatttk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nhatttk&show_icons=true&locale=en" alt="Nhatttk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nhatttk&" alt="Nhatttk" /></p>
 
 ## 🌱 Currently Learning
 
