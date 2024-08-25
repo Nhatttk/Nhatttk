@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate back-end developer with a focus o
 
 - **Languages:** Python, JavaScript
 - **Frameworks:** Django, React, Laravel, React Native
-- **Tools:** Docker, Git, Postman, VS Code
+- **Tools:** Docker, Git, Bitbucket, Postman, VS Code
 
 ## 🚀 Projects
 
@@ -18,22 +18,22 @@ For the Face-ID login feature, the face_recognition library is utilized. This po
 
 These features enhance user experience by providing modern, secure, and convenient authentication methods.
 
-### [Project 2 Name](https://github.com/yourusername/project2)
-Another project with a short description, highlighting key features and purpose.
+### [CareerOrientation](https://github.com/Nhatttk/CareerOrientation)
+CareerOrientation is a web-based application designed to help individuals discover and choose suitable career paths. The platform provides tools and resources for career exploration, personalized recommendations, and insights to guide users toward their professional goals. Built using Django and Django REST Framework, this project aims to offer a user-friendly experience for those seeking direction in their career journey.
 
-### [Project 3 Name](https://github.com/yourusername/project3)
-Include your personal projects, repositories you contribute to, or collaborations with others.
+
+### [Pincap-app](https://github.com/duytan177/Pincap-app)
+Pincap-app is a mobile application built with React Native, designed to offer a user experience similar to Pinterest. Users can explore, save, and organize visual content into collections, making it easy to discover and share inspiration. This application was developed by a team of 4 members.
 
 ## 🌱 Currently Learning
 
 I'm currently diving deeper into:
 - Advanced Django features and performance optimization
-- Exploring front-end frameworks like React and mobile app by react-native
+- Exploring front-end frameworks like React and mobile app development with React Native
 
 ## 📫 How to Reach Me
 
 - Email: [nhatngo1205q@gmail.com](mailto:nhatngo1205q@gmail.com)
-- Portfolio: [Your Website](https://ngominhnhat.vercel.app)
 
 Feel free to reach out to me for collaboration, discussing ideas, or just a friendly chat!
 
@@ -41,6 +41,6 @@ Feel free to reach out to me for collaboration, discussing ideas, or just a frie
 
 - I’m passionate about tech and solving real-world problems.
 - I enjoy learning new things and always look for ways to improve my skills.
-- In my free time, I love reading books, playing video games, and traveling.
+- In my free time, I enjoy playing football, video games, and traveling.
 
 Thanks for visiting my profile! 🙌
