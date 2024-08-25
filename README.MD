@@ -18,8 +18,8 @@ For the Face-ID login feature, the face_recognition library is utilized. This po
 
 These features enhance user experience by providing modern, secure, and convenient authentication methods.
 
-### [CareerOrientation](https://github.com/Nhatttk/CareerOrientation)
-CareerOrientation is a web-based application designed to help individuals discover and choose suitable career paths. The platform provides tools and resources for career exploration, personalized recommendations, and insights to guide users toward their professional goals. Built using Django and Django REST Framework, this project aims to offer a user-friendly experience for those seeking direction in their career journey.
+### [CareerOrientation | Back-end](https://github.com/Nhatttk/CareerOrientation) 
+CareerOrientation is a web-based application designed to help individuals discover and choose suitable career paths. The platform provides tools and resources for career exploration, personalized recommendations, and insights to guide users toward their professional goals. Built using Django REST Framework, this project aims to offer a user-friendly experience for those seeking direction in their career journey.
 
 
 ### [Pincap-app](https://github.com/duytan177/Pincap-app)
