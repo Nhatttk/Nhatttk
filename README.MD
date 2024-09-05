@@ -26,7 +26,7 @@ These features enhance user experience by providing modern, secure, and convenie
 CareerOrientation is a web-based application designed to help individuals discover and choose suitable career paths. The platform provides tools and resources for career exploration, personalized recommendations, and insights to guide users toward their professional goals. Built using Django REST Framework, this project aims to offer a user-friendly experience for those seeking direction in their career journey.
 
 
-### [Pincap-app](https://github.com/duytan177/Pincap-app)
+### [Pincap-app](https://github.com/Nhatttk/Pincap)
 Pincap-app is a mobile application built with React Native, designed to offer a user experience similar to Pinterest. Users can explore, save, and organize visual content into collections, making it easy to discover and share inspiration. This application was developed by a team of 4 members.
 
 
