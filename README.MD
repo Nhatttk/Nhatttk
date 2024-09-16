@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate back-end developer with a focus o
 
 - **Languages:** Python, JavaScript
 - **Frameworks:** Django, React, Laravel, React Native
-- **Tools:** Docker, Git, Bitbucket, Postman, VS Code
+- **Tools:** Git, Bitbucket, Postman, VS Code
 - **Website:** https://ngominhnhat.netlify.app/
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nhatttk&show_icons=true&locale=en&layout=compact" alt="Nhatttk" /></p>
 
