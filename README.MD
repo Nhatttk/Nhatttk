@@ -1,51 +1,144 @@
-# Hi there, I'm Ngo Minh Nhat 👋
+<h1 align="center">Hi 👋, I'm Ngô Minh Nhật</h1>
 
+<h3 align="center">iOS Developer from Vietnam 🇻🇳</h3>
 
-Welcome to my GitHub profile! I'm a passionate back-end developer with a focus on Python and Django REST Framework. I love working on challenging projects and exploring new technologies.
+<p align="center">
+  I build modern, scalable, and user-friendly iOS applications using Swift, SwiftUI, and UIKit.
+</p>
 
-## 🔧 Technologies & Tools
+<p align="center">
+  <a href="https://github.com/Nhatttk">
+    <img src="https://img.shields.io/github/followers/Nhatttk?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Nhatttk&label=Profile%20Views&style=flat" alt="Profile views" />
+</p>
 
-- **Languages:** Python, JavaScript
-- **Frameworks:** Django, React, Laravel, React Native
-- **Tools:** Git, Bitbucket, Postman, VS Code
-- **Website:** https://ngominhnhat.netlify.app/
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nhatttk&show_icons=true&locale=en&layout=compact" alt="Nhatttk" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nhatttk&show_icons=true&locale=en" alt="Nhatttk" /></p>
+## 👨‍💻 About Me
 
-## 🚀 Projects
+* 📱 iOS Developer specializing in **Swift, SwiftUI, and UIKit**
+* 🧱 Interested in clean architecture and maintainable code
+* 🚀 Experienced in building and publishing production iOS applications
+* 💳 Working with subscriptions and in-app purchases using **StoreKit**
+* 📊 Integrating analytics, attribution, and remote configuration
+* 🌱 Continuously learning about iOS performance, architecture, and AI-powered applications
 
-### [QR code and face-id login feature](https://github.com/Nhatttk/QR-code-and-face-id-login-feature)
-The QR Code login feature is implemented using Django Channels and WebSocket technology. This enables real-time communication between the client and server, allowing users to scan a QR code with their mobile device to authenticate seamlessly. The QR code serves as a temporary, unique identifier that, when scanned, verifies the user's identity and logs them into the system.
+---
 
-For the Face-ID login feature, the face_recognition library is utilized. This powerful tool leverages facial recognition technology to authenticate users based on their facial features. By comparing a live image captured from the user's camera to a stored image, the system can verify the user's identity and grant access securely and efficiently.
+## 🛠 Tech Stack
 
-These features enhance user experience by providing modern, secure, and convenient authentication methods.
+### iOS Development
 
-### [CareerOrientation | Back-end](https://github.com/Nhatttk/CareerOrientation) 
-CareerOrientation is a web-based application designed to help individuals discover and choose suitable career paths. The platform provides tools and resources for career exploration, personalized recommendations, and insights to guide users toward their professional goals. Built using Django REST Framework, this project aims to offer a user-friendly experience for those seeking direction in their career journey.
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,apple,firebase" alt="iOS technologies" />
+</p>
 
+* Swift
+* SwiftUI
+* UIKit
+* StoreKit
+* SwiftData
+* Core Data
+* Realm
+* Auto Layout
+* XIB and Storyboard
+* RESTful APIs
 
-### [Pincap-app](https://github.com/Nhatttk/Pincap)
-Pincap-app is a mobile application built with React Native, designed to offer a user experience similar to Pinterest. Users can explore, save, and organize visual content into collections, making it easy to discover and share inspiration. This application was developed by a team of 4 members.
+### Tools & Workflow
 
+<p>
+  <img src="https://skillicons.dev/icons?i=xcode,git,github,figma,postman" alt="Development tools" />
+</p>
 
-## 🌱 Currently Learning
+* Xcode
+* Git and GitHub
+* Swift Package Manager
+* CocoaPods
+* Firebase Analytics
+* Firebase Crashlytics
+* App Store Connect
+* TestFlight
+* Apple Search Ads
 
-I'm currently diving deeper into:
-- Advanced Django features and performance optimization
-- Exploring front-end frameworks like React and mobile app development with React Native
+---
 
-## 📫 How to Reach Me
+## 🚀 What I Focus On
 
-- Email: [nhatngo1205q@gmail.com](mailto:nhatngo1205q@gmail.com)
+* Building responsive and polished iOS interfaces
+* Developing reusable UI components
+* Improving application performance
+* Implementing subscriptions and in-app purchases
+* Integrating third-party SDKs and APIs
+* Supporting localization and multiple languages
+* Writing clean, readable, and maintainable Swift code
 
-Feel free to reach out to me for collaboration, discussing ideas, or just a friendly chat!
+---
 
-## ✨ Fun Facts
+## 📌 Featured Projects
 
-- I’m passionate about tech and solving real-world problems.
-- I enjoy learning new things and always look for ways to improve my skills.
-- In my free time, I enjoy playing football, video games, and traveling.
+### 📷 iOS QR & Barcode Scanner
 
-Thanks for visiting my profile! 🙌
+A production-focused iOS application for scanning, generating, organizing, and exporting QR codes and barcodes.
+
+**Key features:**
+
+* QR code and barcode scanning
+* Batch scanning
+* QR code customization
+* Scan history and file management
+* Subscription and free-trial flows
+* Analytics and attribution integration
+* Multi-language localization
+
+**Technologies:** Swift, SwiftUI, SwiftData, StoreKit, Firebase
+
+### 🖼 Document Scanner & Printer
+
+A UIKit-based document management application with scanning, image editing, PDF tools, printing, and cloud integration.
+
+**Technologies:** Swift, UIKit, XIB, Realm, Firebase, Google Drive, Dropbox
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Nhatttk&show_icons=true&hide_border=true&count_private=true"
+    alt="GitHub statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nhatttk&layout=compact&hide_border=true"
+    alt="Most used languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Nhatttk&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/Nhatttk">
+    <img src="https://img.shields.io/badge/GitHub-Nhatttk-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:nhatnm.21it@vku.udn.vn">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building useful products, one commit at a time.</i>
+</p>
+
